@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CraftyTest.iml" filepath="$PROJECT_DIR$/.idea/modules/CraftyTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CraftyTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CraftyTest_main.iml" group="CraftyTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CraftyTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CraftyTest_test.iml" group="CraftyTest" />
+    </modules>
+  </component>
+</project>
